@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[chaechoicpa]]></title>
         <description><![CDATA[chaechoicpa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/chaechoicpa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 18:59:43 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Mar 2016 18:59:58 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/chaechoicpa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome to Chae Choi, CPA]]></title>
+            <description><![CDATA[<article><h1>Welcome to Chae Choi, CPA</h1><p>Chae Choi, CPA</p></article>]]></description>
+            <link>https://thegrid.ai/chaechoicpa/welcome-to-chae-choi-cpa/index.html</link>
+            <guid isPermaLink="false">e83bfb36-1420-45e8-b8b8-f8676ff0d96a</guid>
+            <pubDate>Fri, 04 Mar 2016 18:57:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What You Need to Know about Taxable and Non-Taxable Income</p>]]></description>
-            <link>undefineda0a1a394-4b42-4ec3-a8d8-e652401a9858/index.html</link>
+            <link>https://thegrid.ai/chaechoicpa/a0a1a394-4b42-4ec3-a8d8-e652401a9858/index.html</link>
             <guid isPermaLink="false">a0a1a394-4b42-4ec3-a8d8-e652401a9858</guid>
             <pubDate>Fri, 04 Mar 2016 18:55:43 GMT</pubDate>
         </item>
