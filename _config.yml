@@ -1,3 +1,4 @@
+favicon: null
 layout_spectrum: 1
 opengraph:
   image: null
@@ -9,25 +10,25 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose: []
 color:
-  saturation: 0.3818487995304167
-  brandStrength: 0.7384533
-  lightness: 0.6244870161172003
+  saturation: 0.5204082
+  brandStrength: 0.5934479
+  lightness: 0.4914071
   brandColors:
     - '#161E1F'
     - '#EAFBF1'
     - '#EAADBC'
     - '#30A391'
     - '#E9BD6E'
-  rhythmicContrast: 0.4622092773206532
-typography_spectrum: 0.32468
+  rhythmicContrast: 0.5870032
+typography_spectrum: 0.4935553
 cta:
   bucket: null
   version: null
@@ -36,5 +37,4 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: chaechoicpa
