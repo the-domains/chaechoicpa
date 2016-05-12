@@ -1,12 +1,7 @@
+name: chaechoicpa
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+layout_spectrum: 0.8576799
+typography_spectrum: 0.4935553
 collections:
   - index:
       path: /
@@ -19,22 +14,28 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+title: 'Welcome to Chae Choi, CPA'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5204082
-  brandStrength: 0.5934479
-  rhythmicContrast: 0.5870032
   brandColors:
     - '#161E1F'
     - '#EAFBF1'
     - '#EAADBC'
     - '#30A391'
     - '#E9BD6E'
+  brandStrength: 0.5934479
   lightness: 0.4914071
-typography_spectrum: 0.4935553
-layout_spectrum: 0.8576799
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: chaechoicpa
+  saturation: 0.5204082
+  rhythmicContrast: 0.5870032
+purpose: []
